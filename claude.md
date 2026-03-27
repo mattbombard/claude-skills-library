@@ -19,6 +19,9 @@ Reviews Python code for quant finance with focus on numerical stability, perform
 ### quant-strategy-backtest
 Creates robust backtesting frameworks for trading strategies with proper data handling, performance metrics, and bias prevention. Supports multiple strategy types (momentum, mean reversion, pairs trading) and asset classes.
 
+### client-demo
+Builds polished, self-playing or interactive client demos and sales prototypes. Prompts for client details, demo format, and UI design style before building. Outputs a single deployable HTML file ready for GitHub Pages.
+
 ## Usage
 
 Copy the desired skill folder from `skills/` to your project's `.claude/skills/` directory, then invoke with `/skill-name`.
